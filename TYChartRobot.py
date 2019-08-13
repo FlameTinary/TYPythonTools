@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/anaconda3/bin/ python
 # -*- encoding: utf-8 -*-
 '''
 @File    :   TYChartRobot.py
@@ -19,7 +19,8 @@ apiKey = "75bb96f437d141d4aaae63707ef62cc3"
 userID = "OnlyUseAlphabet"
 api_url = "http://openapi.tuling123.com/openapi/api/v2"
 
-text_input = input('我:')
+# text_input = input('我:')
+text_input = "天气"
 
 req = {
 	"reqType":0,
