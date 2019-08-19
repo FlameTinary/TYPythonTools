@@ -1,4 +1,4 @@
-#!/anaconda3/bin/ python
+#!/anaconda3/bin/python
 # -*- encoding: utf-8 -*-
 '''
 @File    :   TYChartRobot.py
